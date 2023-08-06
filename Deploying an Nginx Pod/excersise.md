@@ -58,5 +58,3 @@ Note that the `kubectl` utility has been configured to work with the Kubernetes 
 This exercise demonstrates a typical workflow for deploying a simple pod using Kubernetes. It encompasses various essential commands and provides hands-on experience in managing Kubernetes resources.
 
 ---
-
-Feel free to customize this README to fit your project and presentation style.
